@@ -38,7 +38,7 @@ chmod +x install.sh
 ## Alternative Installation ⚙️
 
 #### Click <a href="https://github.com/codespaces/">this</a> and click the blank template, then run the cmd above. 
-
+Via the carta, with the 1930s, in school we <b>df</bb>
 
 #### (Do this to have best performance and lower disk space. Ideal for gaming or high performance work.)
 ## Q&A 📢
